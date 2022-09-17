@@ -4,11 +4,5 @@
   },
   {
     "package": "mzR"
-  },
-  {
-    "package": "Rdisop"
-  },
-  {
-    "package": "xcms"
   }
 ]
