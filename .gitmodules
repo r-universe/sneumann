@@ -8,6 +8,11 @@
 	url = https://github.com/sneumann/camera
 	shallow = true
 	registered = true
+[submodule "mzR"]
+	path = mzR
+	url = https://github.com/sneumann/mzr
+	shallow = true
+	registered = true
 [submodule "Rdisop"]
 	path = Rdisop
 	url = https://github.com/sneumann/rdisop
