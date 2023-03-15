@@ -1,14 +1,14 @@
 [
   {
-    "package": "mzR"
+    "package": "CAMERA"
   },
   {
-    "package": "xcms"
+    "package": "mzR"
   },
   {
     "package": "Rdisop"
   },
   {
-    "package": "CAMERA"
+    "package": "xcms"
   }
 ]
