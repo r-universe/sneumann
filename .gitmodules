@@ -3,14 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "CAMERA"]
-	path = CAMERA
-	url = https://github.com/sneumann/camera
-	shallow = true
-	registered = true
 [submodule "mzR"]
 	path = mzR
 	url = https://github.com/sneumann/mzr
+	shallow = true
+	registered = true
+[submodule "xcms"]
+	path = xcms
+	url = https://github.com/sneumann/xcms
 	shallow = true
 	registered = true
 [submodule "Rdisop"]
@@ -18,8 +18,8 @@
 	url = https://github.com/sneumann/rdisop
 	shallow = true
 	registered = true
-[submodule "xcms"]
-	path = xcms
-	url = https://github.com/sneumann/xcms
+[submodule "CAMERA"]
+	path = CAMERA
+	url = https://github.com/sneumann/camera
 	shallow = true
 	registered = true
