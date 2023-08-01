@@ -5,12 +5,12 @@
 [submodule "CAMERA"]
 	path = CAMERA
 	url = https://github.com/sneumann/camera
-[submodule "mzR"]
-	path = mzR
-	url = https://github.com/sneumann/mzr
 [submodule "Rdisop"]
 	path = Rdisop
 	url = https://github.com/sneumann/rdisop
+[submodule "mzR"]
+	path = mzR
+	url = https://github.com/sneumann/mzr
 [submodule "xcms"]
 	path = xcms
 	url = https://github.com/sneumann/xcms
